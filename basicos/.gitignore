@@ -1,0 +1,4 @@
+archivos.txt
+*.log
+/carpeta/
+.DS_Store # macOS Thumbs.db # Windows
